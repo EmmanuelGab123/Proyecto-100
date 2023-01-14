@@ -1,0 +1,20 @@
+body{
+    background-color:lightskyblue
+}
+h1{
+    color:darkblue;
+    font-style: normal;
+    text-shadow: 3px 3px 3px lightgrey;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px lightgrey;
+}
+#result1{
+    width: 150px;
+    height: 100px;
+    border-radius: 15px;
+    border-style:ridge;
+}
