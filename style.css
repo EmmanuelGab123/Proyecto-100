@@ -17,4 +17,19 @@ h1{
     height: 100px;
     border-radius: 15px;
     border-style:ridge;
+    margin-bottom: 500px;
+}
+#result2{
+    width: 150px;
+    height: 100px;
+    border-radius: 15px;
+    border-style:ridge;
+    margin-bottom: 500px;
+}
+#result3{
+    width: 150px;
+    height: 100px;
+    border-radius: 15px;
+    border-style:ridge;
+    margin-bottom: 500px;
 }
